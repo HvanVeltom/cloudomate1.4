@@ -1,0 +1,24 @@
+[user]
+email =
+firstname =
+lastname =
+companyname =
+phonenumber =
+password =
+username =
+
+[address]
+address =
+city =
+state =
+countrycode =
+zipcode =
+
+[payment]
+walletpath =
+
+[server]
+ns1 =
+ns2 =
+hostname =
+root_password =
